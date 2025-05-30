@@ -23,9 +23,11 @@ I'm actively working on the following topics:
   - Arrays
   - Strings
   - Linked Lists
-  - Recursion
+  - Recursion & Backtracking
   - Sorting & Searching
-  - 
+  - Hashing
+  - Stack &Queue
+  - Trees & Graphs
 - ✅ Pattern Problems
 - 🧪 Experimenting with mini Java projects
 
